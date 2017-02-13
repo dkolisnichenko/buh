@@ -3,7 +3,7 @@
       <div  class="table-responsive"> 
           
     <?=$data ?>    
-          fg kjkj
+          
             </div> 
     <br>
 </div>
